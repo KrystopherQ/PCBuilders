@@ -1,0 +1,28 @@
+header {
+    height: 100px;
+    width: 100%;
+    border-bottom: 10px solid rgb(0, 0, 8);
+    background-color: #db1616;
+  }
+  
+  section {
+    width: 70%;
+    margin: 20px auto;
+    border-bottom: 5px solid rgb(35, 238, 35);
+  }
+  
+  h1 {
+    p
+    text-align: center;
+    line-height: 100px;
+  }
+  
+  h2 {
+    margin-bottom: 0;
+  }
+  
+  h3 {
+    margin-top: 0;
+  }
+  
+ 
